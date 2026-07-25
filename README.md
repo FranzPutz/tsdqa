@@ -81,7 +81,7 @@ data/
 * Create directory structure
 mkdir -p data/{raw/{google_buildings,microsoft_buildings,osm_buildings,esri_buildings},processed,reference,ancillary/{health_facilities,road_network,population}}
 
-* Download study area boundary (example for Nairobi)
+* Download study area boundary (example for Nairobi, Accra.etc.)
 * Add your study area polygon to data/reference/study_area.geojson
 
 * Download health facilities (example using OSM)
@@ -118,6 +118,5 @@ Ensure coordinate reference systems match (use EPSG:4326 for consistency)
 
 For large areas, consider tiling or sampling approaches
 
-See scripts/preprocessing/ for harmonization utilities
 
-Add this section to your README to guide users through pr
+
