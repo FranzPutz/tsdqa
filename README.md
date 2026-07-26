@@ -105,7 +105,7 @@ Microsoft Footprints: GitHub Releases
 
 OSM Data: Geofabrik Downloads
 
-Esri Footprints: Living Atlas
+GlobalBuildingAtlas
 
 Health Facilities: healthsites.io or OSM
 
